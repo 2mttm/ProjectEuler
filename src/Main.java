@@ -1,9 +1,5 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Ex23.main());
+        System.out.println(Ex24.main(10,999999));
     }
-
 }
